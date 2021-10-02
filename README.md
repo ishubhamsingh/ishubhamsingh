@@ -1,8 +1,7 @@
 ## Hello world 🌏, i am [Shubham Singh](https://ishubhamsingh.dev)
 
-- 💼 I'm currently employed at [Datamatics](https://www.datamatics.com/digital/digital-experience/), working for client [Spireon](https://www.spireon.com)
+- 💼 I'm currently employed at [Spireon](https://www.spireon.com)
 - 👨🏼‍🔧 I'm currently working on Fencer - A geofence based reminder app
-- 🌱 I'm currently learning Flutter
 - 💬 Ask me about web development (NodeJs, ReactJs) & Android development (kotlin)
 
 ### Languages and Tools:

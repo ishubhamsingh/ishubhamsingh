@@ -1,8 +1,7 @@
 ## Hello world 🌏, i am [Shubham Singh](https://ishubhamsingh.dev)
 
-- 💼 I'm currently employed at [Spireon](https://www.spireon.com)
-- 👨🏼‍🔧 I'm currently working on Fencer - A geofence based reminder app
-- 💬 Ask me about web development (NodeJs, ReactJs) & Android development (kotlin)
+- 💼 I'm currently employed at [JLLT](https://www.jllt.com/)
+- 💬 Ask me about web development (NodeJs, ReactJs) & Android development (Kotlin, Compose, KMP)
 
 ### Languages and Tools:
 
